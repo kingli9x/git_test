@@ -1,5 +1,9 @@
 1--++
+<<<<<<< HEAD
 22=
+=======
+22.
+>>>>>>> refs/remotes/origin/master
 3
 44
 5
